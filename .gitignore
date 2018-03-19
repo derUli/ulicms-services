@@ -1,2 +1,5 @@
 .DS_Store
 thumbs.db
+.buildpath
+.project
+.settings
