@@ -4,4 +4,3 @@ GetFullPageURLByIDWindowsFix|Fixes a function which generates invalid paths on W
 VideoUploadFix|Fixed the video upload feature|https://patches.ulicms.de/downloads/2018.2/VideoUploadFix.zip
 PackageManagerPerformanceFix|Fixes an performance issue in the package manager and patch functionalities|https://patches.ulicms.de/downloads/2018.2/PackageManagerPerformanceFix.zip
 core_home|Fixs an issue where deleted datasets were shown|https://patches.ulicms.de/downloads/2018.2/core_home.zip
-
