@@ -1,0 +1,1 @@
+ParentPageXSSFix|Fixes a cross site scripting in parent page title|https://patches.ulicms.de/downloads/2018.3/ParentPageXSSFix.zip|58BB517D5E867F0A5D8FD866052D8DA1

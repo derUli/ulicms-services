@@ -3,4 +3,5 @@ CustomTypesFix|Fixes custom types field objects|https://patches.ulicms.de/downlo
 GetFullPageURLByIDWindowsFix|Fixes a function which generates invalid paths on Windows|https://patches.ulicms.de/downloads/2018.2/GetFullPageURLByIDWindowsFix.zip
 VideoUploadFix|Fixed the video upload feature|https://patches.ulicms.de/downloads/2018.2/VideoUploadFix.zip
 PackageManagerPerformanceFix|Fixes an performance issue in the package manager and patch functionalities|https://patches.ulicms.de/downloads/2018.2/PackageManagerPerformanceFix.zip
-core_home|Fixs an issue where deleted datasets were shown|https://patches.ulicms.de/downloads/2018.2/core_home.zip
+core_home|Fixes an issue where deleted datasets were shown|https://patches.ulicms.de/downloads/2018.2/core_home.zip
+ParentPageXSSFix|Fixes a cross site scripting in parent page title|https://patches.ulicms.de/downloads/2018.2/ParentPageXSSFix.zip
