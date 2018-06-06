@@ -1,0 +1,12 @@
+{
+	"source": "local",
+	"version": "1.0",
+	"embed": true,
+	"controllers": {
+		"PatchDownloadsController": "PatchDownloadsController.php"
+	},
+	"main_class": "PatchDownloadsController",
+	"objects": {
+		"PatchDownload": "PatchDownload.php"
+	}
+}
