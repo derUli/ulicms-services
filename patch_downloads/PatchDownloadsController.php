@@ -23,10 +23,10 @@ class PatchDownloadsController extends Controller
             $versions = array();
             $path = Path::resolve("ULICMS_ROOT/patches/lists/*.txt");
             $files = glob($path);
-            natcasesort($files);
             foreach ($files as $file) {
                 $versions[] = pathinfo($file, PATHINFO_FILENAME);
             }
+			usort($versions, "version_compare");
             ViewBag::set("versions", $versions);
             return Template::executeModuleTemplate($this->moduleName, "versions.php");
         }
