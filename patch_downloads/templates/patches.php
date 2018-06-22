@@ -6,13 +6,11 @@ $pageBaseUrl = ModuleHelper::getFullPageURLByID($page->id);
 	style="margin: 10px 0px">
 	<button type="submit" class="btn btn-default"><?php translate("back");?></button>
 </form>
+<blockquote><?php translate("install_patches_help");?></blockquote>
 <?php foreach(ViewBag::get("patches") as $patch){?>
 <form method="get" action="<?php esc($patch->url)?>">
 	<p>
-		<strong><a href="<?php
-    
-    esc($patch->url);
-    ?>"><?php esc($patch->name)?></a></strong> <br />
+		<strong><?php esc($patch->name)?></strong> <br />
 <?php echo nl2br(_esc($patch->description));?>
 <br />
 
