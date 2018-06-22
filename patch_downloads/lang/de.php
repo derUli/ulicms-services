@@ -7,3 +7,4 @@ add_translation("install_patches_help", "Sie können Patches im UliCMS Backend u
 <strong>Patch aus Datei installieren</strong> hochladen. 
 Geben Sie den Namen und die Beschreibung die auf der Downloadseite stehen ein und 
 laden Sie die Patch-Datei hoch.");
+add_Translation("select_version_help", "Bitte wählen Sie eine UliCMS Version um verfügbare Patches anzuzeigen.");
