@@ -6,3 +6,4 @@ PackageManagerPerformanceFix|Fixes an performance issue in the package manager a
 core_home|Fixes an issue where deleted datasets were shown|https://patches.ulicms.de/downloads/2018.2/core_home.zip
 ParentPageXSSFix|Fixes a cross site scripting in parent page title|https://patches.ulicms.de/downloads/2018.2/ParentPageXSSFix.zip
 HoneypotFieldDisableAutoCompletion|Fixes an issue with anti spam and form auto completion|https://patches.ulicms.de/downloads/2018.2/HoneypotFieldDisableAutoCompletion.zip
+ContentTypeLanguageLink|Fixes the "Link to Language" content type|https://patches.ulicms.de/downloads/2018.2/ContentTypeLanguageLink.zip|0652e8bb1e4c1912046f6ea83fa095f0
