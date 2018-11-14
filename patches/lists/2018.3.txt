@@ -2,3 +2,4 @@ ParentPageXSSFix|Fixes a cross site scripting in parent page title|https://patch
 HoneypotFieldDisableAutoCompletion|Fixes an issue with anti spam and form auto completion|https://patches.ulicms.de/downloads/2018.3/HoneypotFieldDisableAutoCompletion.zip|91404edcce6c184acd1f6c37a2d7a505
 FixMailSettingsEncryptionSelection|Fixes an issue with the "encryption" field in mail settings|https://patches.ulicms.de/downloads/2018.3/FixMailSettingsEncryptionSelection.zip|2a810a26d221efa9dece4368803d3df5
 ContentTypeLanguageLink|Fixes the "Link to Language" content type|https://patches.ulicms.de/downloads/2018.3/ContentTypeLanguageLink.zip|fb99d5fc62fb66780192766440168429
+CoreFormsEncodingFix|Fixes an encoding bug in contact form mails|https://patches.ulicms.de/downloads/2018.4/CoreFormsEncodingFix.zip|93fc81e86d15324411886c2169b3e0f5
