@@ -1,0 +1,1 @@
+FixContactFormsMxCheck|Fix the MX DNS-Entry Check on contact forms|https://patches.ulicms.de/downloads/2019.1/FixContactFormsMxCheck.zip|B12747E02CBD5C0E1FE33C4B9DE40F35
