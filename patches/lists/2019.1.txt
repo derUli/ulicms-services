@@ -1,2 +1,3 @@
 FixContactFormsMxCheck|Fix the MX DNS-Entry Check on contact forms|https://patches.ulicms.de/downloads/2019.1/FixContactFormsMxCheck.zip|B12747E02CBD5C0E1FE33C4B9DE40F35+
 FixCustomACLEvent|Fix an issue where new permission are not shown|https://patches.ulicms.de/downloads/2019.1/FixCustomACLEvent.zip|7fd50ac15f5ad3f8ea359b9e1d9ea6f8
+CacheUtilFix|Fixes an issue where the wrong state of a site was served from cache|https://patches.ulicms.de/downloads/2019.1/CacheUtilFix.zip|56cd1f619b99960122b495a29f119c21
