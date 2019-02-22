@@ -2,3 +2,4 @@ FixContactFormsMxCheck|Fix the MX DNS-Entry Check on contact forms|https://patch
 FixCustomACLEvent|Fix an issue where new permission are not shown|https://patches.ulicms.de/downloads/2019.1/FixCustomACLEvent.zip|7fd50ac15f5ad3f8ea359b9e1d9ea6f8
 CacheUtilFix|Fixes an issue where the wrong state of a site was served from cache|https://patches.ulicms.de/downloads/2019.1/CacheUtilFix.zip|56cd1f619b99960122b495a29f119c21
 ResultTypeArgumentFix|Fixes the use of the $type argument in the Result() function|https://patches.ulicms.de/downloads/2019.1/ResultTypeArgumentFix.zip|a33ba5060c6be616e1ed85841e2ad0ef
+FixAutoCompleteOff|Disabling Autocompletion Fix|https://patches.ulicms.de/downloads/2019.1/FixAutoCompleteOff.zip|ca0ef36dba9edb7bd8a72055287ce29b
