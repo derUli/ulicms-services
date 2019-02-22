@@ -1,2 +1,3 @@
 CoreFormsEncodingFix|Fixes an encoding bug in contact form mails|https://patches.ulicms.de/downloads/2018.4/CoreFormsEncodingFix.zip|93fc81e86d15324411886c2169b3e0f5
 CacheUtilFix|Fixes an issue where the wrong state of a site was served from cache|https://patches.ulicms.de/downloads/2018.4/CacheUtilFix.zip|8217af98697b305381f53815be57ad81
+FixAutoCompleteOff|Disabling Autocompletion Fix|https://patches.ulicms.de/downloads/2018.4/FixAutoCompleteOff.zip|3fcb58ba64cf6eef3963295198dac7a8
