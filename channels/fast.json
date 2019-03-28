@@ -1,9 +1,13 @@
 {
-  "version": "2019.2",
-  "file": "https://www.ulicms.de/content/files/Releases/2019.2/ulicms-2019.2-colourful-chameleon-upgrade.zip",
-  "hashsum": "03c2aec6d2fc17e2f69f00ac0d96495f",
-  "announcement": {
-    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-20192-mit-verbessertem-user-interface",
-	"en" : "https://en.ulicms.de/aktuelles.html?single=ulicms-20192-with-improved-user-interface"
-  }
+   "version":"2019.2.2",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.2.2/ulicms-2019.2.2-upgrade.zip",
+   "hashsum":"fbd83f02248f2ba61d85e95e9b003828",
+   "announcement":{
+      "de":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201922-auf-dem-fastzweig",
+      "en":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201922-auf-dem-fastzweig"
+   },
+   "release_notes": {
+      "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade. Bei diesem Upgrade sind zusätzliche Schritte erforderlich.",
+      "en":"Please read the Release Announcement before upgrading. There are additional steps required to prepare this upgrade."
+   }
 }
