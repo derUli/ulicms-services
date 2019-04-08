@@ -1,10 +1,10 @@
 {
-   "version":"2019.2.2",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.2.2/ulicms-2019.2.2-upgrade.zip",
-   "hashsum":"fbd83f02248f2ba61d85e95e9b003828",
+   "version":"2019.2.4",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.2.4/ulicms-2019.2.4-upgrade.zip",
+   "hashsum":"bf15c770c24147730cb1572855f164ad",
    "announcement":{
-      "de":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201922-auf-dem-fastzweig",
-      "en":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201922-auf-dem-fastzweig"
+      "de":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201924-auf-dem-fastzweig",
+      "en":"https://www.ulicms.de/aktuelles.html?single=neue-version-ulicms-201924-auf-dem-fastzweig"
    },
    "release_notes": {
       "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade. Bei diesem Upgrade sind zusätzliche Schritte erforderlich.",
