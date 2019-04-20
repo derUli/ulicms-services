@@ -1,11 +1,9 @@
 <?php
 
-class PatchDownload
-{
+class PatchDownload {
 
     public $name;
-
     public $url;
-
     public $description;
+
 }
