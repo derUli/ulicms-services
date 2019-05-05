@@ -1,7 +1,7 @@
 <?php
 
 function getURLForCategory($category_id) {
-    $query = Database::pQuery("select systemname from {prefix}content c inner join {prefix}lists l on l.content_id = c.id where c.language = ? and c.active = ? and c.type = ? and l.category_id = ?", array(
+    $query = Database::pQuery("select slug from {prefix}content c inner join {prefix}lists l on l.content_id = c.id where c.language = ? and c.active = ? and c.type = ? and l.category_id = ?", array(
                 getCurrentLanguage(),
                 1,
                 "list",
@@ -9,7 +9,7 @@ function getURLForCategory($category_id) {
                     ), true);
     if (Database::any($query)) {
         $data = Database::fetchFirst($query);
-        return buildSEOUrl($data->systemname);
+        return buildSEOUrl($data->slug);
     } else {
         return null;
     }
