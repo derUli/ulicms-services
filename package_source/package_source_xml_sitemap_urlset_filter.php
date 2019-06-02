@@ -1,5 +1,7 @@
 <?php
 
+use UliCMS\Utils\File;
+
 function package_source_xml_sitemap_urlset_filter($urlset) {
     $xml = "";
     $pages = getAllPages();
