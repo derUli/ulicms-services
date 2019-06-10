@@ -3,3 +3,4 @@ HttpStatusCode422|Add Constant for Http Status Code 422|https://patches.ulicms.d
 CoreHomeNewsFeedFix|Fixes loading the newsfeed when allow_url_fopen is disabled|https://patches.ulicms.de/downloads/2019.2/CoreHomeNewsFeedFix.zip|6b47e9a98336225bd130ed5a12658b07
 FixXSSInBackend|Fixes XSS issues in register form, login form and favicon form|https://patches.ulicms.de/downloads/2019.2/FixXSSInBackend.zip|78cac327d246957ac8dc77406ec0dd76
 DateTimeLocaliOSSafariFix.zip|Fix validation of datetime-local in Safari on iOS|https://patches.ulicms.de/downloads/2019.2/DateTimeLocaliOSSafariFix.zip|71b4ef9f0cbd756a7a200b7de019c3ef
+FixCVE-2019-11398|Security Fix|https://patches.ulicms.de/downloads/2019.2/FixCVE-2019-11398.zip|21ad2401f118fab6c380df4ba04f082f
