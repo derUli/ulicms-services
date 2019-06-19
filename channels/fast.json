@@ -1,10 +1,10 @@
 {
-   "version":"2019.2.8",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.2.8/ulicms-2019.2.8-upgrade.zip",
-   "hashsum":"84a1a9f238d3730976c80cea8c99ffa3",
+   "version":"2019.3",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.3/ulicms-2019.3-dancing-parrot-upgrade.zip",
+   "hashsum":"3dab1cbe7fd397f0b10e513f8d8da477",
    "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-2-8-feature-freeze",
-      "en":"https://www.ulicms.de/aktuelles.html?single=ulicms-2019-2-8-feature-freeze"
+      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-3-dancing-parrot-raeumt-mit-technischen-altlasten-auf",
+      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-3-dancing-parrot-released"
    },
    "release_notes": {
       "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade. Bei diesem Upgrade sind zusätzliche Schritte erforderlich.",
