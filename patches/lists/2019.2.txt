@@ -4,3 +4,4 @@ CoreHomeNewsFeedFix|Fixes loading the newsfeed when allow_url_fopen is disabled|
 FixXSSInBackend|Fixes XSS issues in register form, login form and favicon form|https://patches.ulicms.de/downloads/2019.2/FixXSSInBackend.zip|78cac327d246957ac8dc77406ec0dd76
 DateTimeLocaliOSSafariFix.zip|Fix validation of datetime-local in Safari on iOS|https://patches.ulicms.de/downloads/2019.2/DateTimeLocaliOSSafariFix.zip|71b4ef9f0cbd756a7a200b7de019c3ef
 FixCVE-2019-11398|Security Fix|https://patches.ulicms.de/downloads/2019.2/FixCVE-2019-11398.zip|21ad2401f118fab6c380df4ba04f082f
+FixDeleteGroup|Fix delete groups|https://patches.ulicms.de/downloads/2019.3/FixDeleteGroup.zip|d753939dc7fedfe7b2f78261a46df3be
