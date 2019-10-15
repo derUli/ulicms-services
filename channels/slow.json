@@ -1,13 +1,13 @@
 {
-   "version":"2019.3",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.3/ulicms-2019.3-dancing-parrot-upgrade.zip",
-   "hashsum":"3dab1cbe7fd397f0b10e513f8d8da477",
+   "version":"2019.4",
+   "file":"https://en.ulicms.de/content/files/Releases/2019.4/ulicms-2019.4-tidy-guanako-upgrade.zip",
+   "hashsum":"b610e6689c28dba9ab570aac70be7d80",
    "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-3-dancing-parrot-raeumt-mit-technischen-altlasten-auf",
-      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-3-dancing-parrot-released"
+      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-mit-automatischer-einbindung-von-medien-hierarchischer-seitenliste-einem-neuen-standard-theme-und-vielen-weiteren-neuen-features",
+      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-4-supports-auto-embeddable-media-hierarchical-and-has-a-new-standard-page"
    },
    "release_notes": {
-      "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade. Bei diesem Upgrade sind zusätzliche Schritte erforderlich.",
-      "en":"Please read the Release Announcement before upgrading. There are additional steps required to prepare this upgrade."
-   }
+      "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
+      "en":"Please read the Release Announcement before upgrading."
+	}
 }
