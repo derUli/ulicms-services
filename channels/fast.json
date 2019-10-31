@@ -1,13 +1,13 @@
 {
-   "version":"2019.4",
-   "file":"https://en.ulicms.de/content/files/Releases/2019.4/ulicms-2019.4-tidy-guanako-upgrade.zip",
-   "hashsum":"b610e6689c28dba9ab570aac70be7d80",
+   "version":"2019.4.0.1",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.4/update1/ulicms-2019.4-update1-tidy-guanako-upgrade.zip",
+   "hashsum":"d60eb15215bb4d949d4d3217bc8c7ca4",
    "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-mit-automatischer-einbindung-von-medien-hierarchischer-seitenliste-einem-neuen-standard-theme-und-vielen-weiteren-neuen-features",
-      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-4-supports-auto-embeddable-media-hierarchical-and-has-a-new-standard-page"
+      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-korrigiert-bugs-in-api-und-dem-installer",
+      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-fixes-some-bugs-in-api-and-installer"
    },
    "release_notes": {
       "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
-      "en":"Please read the Release Announcement before upgrading."
+      "en":"Please read the Release Announcement before you upgrade."
 	}
 }
