@@ -1,10 +1,10 @@
 {
-   "version":"2019.4.0.1",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.4/update1/ulicms-2019.4-update1-tidy-guanako-upgrade.zip",
-   "hashsum":"d60eb15215bb4d949d4d3217bc8c7ca4",
+   "version":"2019.4.1",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.4.1/ulicms-2019.4.1-upgrade.zip",
+   "hashsum":"eaa2dc705611cf815e9615cb505bc4e8",
    "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-korrigiert-bugs-in-api-und-dem-installer",
-      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-fixes-some-bugs-in-api-and-installer"
+      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-1-enthaelt-alle-features-die-in-ulicms-2018-1-enthalten-sein-werden",
+      "en": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-1-enthaelt-alle-features-die-in-ulicms-2018-1-enthalten-sein-werden"
    },
    "release_notes": {
       "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
