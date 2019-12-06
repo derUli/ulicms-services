@@ -1,1 +1,2 @@
 UsersUpdateFix|Fix password is removed on update user|https://patches.ulicms.de/downloads/2019.4/UsersUpdateFix.zip|579041bcaaa23d40a70019df64d42690
+FixExtendDownloadLinks|Fix eXtend download links in package info dialog|https://patches.ulicms.de/downloads/2019.4/FixExtendDownloadLinks.zip|35df3c32f0833a3707a00606e90a98e9
