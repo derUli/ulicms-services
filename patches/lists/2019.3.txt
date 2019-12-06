@@ -1,3 +1,4 @@
 DataTablesSaveStateFix|Fix for state saving of DataTables|https://patches.ulicms.de/downloads/2019.3/DataTablesSaveStateFix.zip|4ec235220110d533213c08e481fd809e
 FixDeleteGroup|Fix delete groups|https://patches.ulicms.de/downloads/2019.3/FixDeleteGroup.zip|683547197da29295f96c60ec85f61cf0
 FixPasswordResetToken|Fix password reset token not deleted after use|https://patches.ulicms.de/downloads/2019.3/FixPasswordResetToken.zip|3b76db06ad415ff0f990a74003bc84ba
+UsersUpdateFix|Fix password is removed on update user|https://patches.ulicms.de/downloads/2019.3/UsersUpdateFix.zip|cf89ed4e46512300b93e917b67f77723
