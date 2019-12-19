@@ -1,10 +1,10 @@
 {
-   "version":"2019.4.1",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.4.1/ulicms-2019.4.1-upgrade.zip",
-   "hashsum":"eaa2dc705611cf815e9615cb505bc4e8",
-   "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-1-enthaelt-alle-features-die-in-ulicms-2018-1-enthalten-sein-werden",
-      "en": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-1-enthaelt-alle-features-die-in-ulicms-2018-1-enthalten-sein-werden"
+   "version":"2019.4.2",
+   "file":"https://www.ulicms.de/content/files/Releases/2019.4.2/ulicms-2019.4.2-upgrade.zip",
+   "hashsum":"7f2377c24af5260f59647d406515c321",
+   "announcement": {
+      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-2-ermoeglicht-avatar-upload",
+      "en": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-2-ermoeglicht-avatar-upload"
    },
    "release_notes": {
       "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
