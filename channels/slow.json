@@ -1,13 +1,13 @@
 {
-   "version":"2019.4.0.1",
-   "file":"https://www.ulicms.de/content/files/Releases/2019.4/update1/ulicms-2019.4-update1-tidy-guanako-upgrade.zip",
-   "hashsum":"d60eb15215bb4d949d4d3217bc8c7ca4",
-   "announcement":{
-      "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-korrigiert-bugs-in-api-und-dem-installer",
-      "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2019-4-update-1-fixes-some-bugs-in-api-and-installer"
-   },
-   "release_notes": {
-      "de":"Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
-      "en":"Please read the Release Announcement before you upgrade."
-	}
+  "version": "2020.1",
+  "file": "https://www.ulicms.de/content/files/Releases/2020.1/ulicms-2020.1-lurking-anaconda-upgrade.zip",
+  "hashsum": "b0d82281b27172bf4b4ec468a5e53ada",
+  "announcement": {
+    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-1-lurking-anaconda-mit-avatar-upload-verbesserter-performance-und-robots-metatags",
+    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2020-1-with-avatar-upload-improved-performance-and-support-to-set-robots-metatag-by-page"
+  },
+  "release_notes": {
+    "de": "Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
+    "en": "Please read the Release Announcement before you upgrade."
+  }
 }
