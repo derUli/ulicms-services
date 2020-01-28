@@ -1,0 +1,1 @@
+FixCompareVersions|Fix compare versions|https://patches.ulicms.de/downloads/2020.1/FixCompareVersions.zip|ad7e2e5e2e7b0ca2a32a4e5a905d04d2
