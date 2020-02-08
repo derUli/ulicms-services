@@ -1,1 +1,2 @@
 FixCompareVersions|Fix compare versions|https://patches.ulicms.de/downloads/2020.1/FixCompareVersions.zip|ad7e2e5e2e7b0ca2a32a4e5a905d04d2
+FixDeleteForm|Fix delete forms|https://patches.ulicms.de/downloads/2020.1/FixDeleteForm.zip|4b80872fe7e48090c7800cf43d68c9f5
