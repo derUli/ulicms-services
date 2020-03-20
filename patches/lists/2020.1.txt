@@ -1,2 +1,4 @@
 FixCompareVersions|Fix compare versions|https://patches.ulicms.de/downloads/2020.1/FixCompareVersions.zip|ad7e2e5e2e7b0ca2a32a4e5a905d04d2
 FixDeleteForm|Fix delete forms|https://patches.ulicms.de/downloads/2020.1/FixDeleteForm.zip|4b80872fe7e48090c7800cf43d68c9f5
+SaveCustomData|Fix processing of custom data in Page model|https://patches.ulicms.de/downloads/2020.1/SaveCustomData.zip|b033ec9bae92a5e7a2b90b0a5ae11b87
+FixPackageControllerXSS|Fix Cross Site Scripting in uninstall package actions|https://patches.ulicms.de/downloads/2020.1/FixPackageControllerXSS.zip|7c4a02c54b6211b993ee8d3e3477e5a5

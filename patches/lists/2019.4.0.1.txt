@@ -1,2 +1,5 @@
 UsersUpdateFix|Fix password is removed on update user|https://patches.ulicms.de/downloads/2019.4/UsersUpdateFix.zip|579041bcaaa23d40a70019df64d42690
 FixExtendDownloadLinks|Fix eXtend download links in package info dialog|https://patches.ulicms.de/downloads/2019.4/FixExtendDownloadLinks.zip|35df3c32f0833a3707a00606e90a98e9
+FixDeleteForm|Fix delete forms|https://patches.ulicms.de/downloads/2019.4/FixDeleteForm.zip|8104a3f9df2c5ec3c72fe443f6cf104e
+SaveCustomData|Fix processing of custom data in Page model|https://patches.ulicms.de/downloads/2019.4/SaveCustomData.zip|86d65d9dd7d77178d261234a2bea9be0
+FixPackageControllerXSS|Fix Cross Site Scripting in uninstall package actions|https://patches.ulicms.de/downloads/2019.4/FixPackageControllerXSS.zip|5ce2a6c544625207f7de46c0537f63cd
