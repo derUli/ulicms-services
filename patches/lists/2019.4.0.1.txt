@@ -3,3 +3,4 @@ FixExtendDownloadLinks|Fix eXtend download links in package info dialog|https://
 FixDeleteForm|Fix delete forms|https://patches.ulicms.de/downloads/2019.4/FixDeleteForm.zip|8104a3f9df2c5ec3c72fe443f6cf104e
 SaveCustomData|Fix processing of custom data in Page model|https://patches.ulicms.de/downloads/2019.4/SaveCustomData.zip|86d65d9dd7d77178d261234a2bea9be0
 FixPackageControllerXSS|Fix Cross Site Scripting in uninstall package actions|https://patches.ulicms.de/downloads/2019.4/FixPackageControllerXSS.zip|5ce2a6c544625207f7de46c0537f63cd
+FixPageControllerXSS|Fix Cross Site Scripting in save page feature|https://patches.ulicms.de/downloads/2019.4/FixPageControllerXSS.zip|562e85abc5bb5411f6988f706762d75a
