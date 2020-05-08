@@ -1,10 +1,10 @@
 {
-  "version": "2020.2",
-  "file": "https://www.ulicms.de/content/files/Releases/2020.2/ulicms-2020.2-playful-amazon-river-dolphin-upgrade.zip",
-  "hashsum": "c83cd504e51f30d3fabb97eb50353245",
+  "version": "2020.2.1",
+  "file": "https://www.ulicms.de/content/files/Releases/2020.2.1/ulicms-2020.2.1-upgrade.zip",
+  "hashsum": "d9130ee6f4290f2bdfb4c29e24ac1994",
   "announcement": {
-    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-2-mit-optischer-ueberarbeitung-ckeditor-updates-und-mehr",
-    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2020-2-with-ckeditor-updates-and-visual-revised"
+    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-2-1-verfuegbar",
+    "en": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-2-1-verfuegbar"
   },
   "release_notes": {
     "de": "Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
