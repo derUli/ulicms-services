@@ -3,3 +3,4 @@ FixDeleteForm|Fix delete forms|https://patches.ulicms.de/downloads/2020.1/FixDel
 SaveCustomData|Fix processing of custom data in Page model|https://patches.ulicms.de/downloads/2020.1/SaveCustomData.zip|b033ec9bae92a5e7a2b90b0a5ae11b87
 FixPackageControllerXSS|Fix Cross Site Scripting in uninstall package actions|https://patches.ulicms.de/downloads/2020.1/FixPackageControllerXSS.zip|7c4a02c54b6211b993ee8d3e3477e5a5
 FixPageControllerXSS|Fix Cross Site Scripting in save page feature|https://patches.ulicms.de/downloads/2020.1/FixPageControllerXSS.zip|c31986a1f86b7b27cdb117de7809fb6a
+FixDeletePages|Fix delete pages|https://patches.ulicms.de/downloads/2020.1/FixDeletePages.zip|41ce524e4252e61e3603de19cabba94a
