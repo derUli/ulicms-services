@@ -1,10 +1,10 @@
 {
-  "version": "2020.2.1",
-  "file": "https://www.ulicms.de/content/files/Releases/2020.2.1/ulicms-2020.2.1-upgrade.zip",
-  "hashsum": "d9130ee6f4290f2bdfb4c29e24ac1994",
+  "version": "2020.2.2",
+  "file": "https://www.ulicms.de/content/files/Releases/2020.2.2/ulicms-2020.2.2-upgrade.zip",
+  "hashsum": "9dc4495b1a54becf990da0805cf55d9e",
   "announcement": {
-    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-2-1-verfuegbar",
-    "en": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-2-1-verfuegbar"
+    "de": "https://www.ulicms.de/aktuelles.html?single=trotz-corona-geht-die-ulicms-entwicklung-weiter",
+    "en": "https://www.ulicms.de/aktuelles.html?single=trotz-corona-geht-die-ulicms-entwicklung-weiter"
   },
   "release_notes": {
     "de": "Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
