@@ -1,10 +1,10 @@
 {
-  "version": "2020.3",
-  "file": "https://www.ulicms.de/content/files/Releases/2020.3/ulicms-2020.3-climbing-sloth-upgrade.zip",
-  "hashsum": "a024f42ddf9cb43422d6709498a963ac",
+  "version": "2020.4",
+  "file": "https://www.ulicms.de/content/files/Releases/2020.4/ulicms-2020.4-near-threatened-jaguar-upgrade.zip",
+  "hashsum": "ccdbfc0a26eca1e5de0de375b487d204",
   "announcement": {
-    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-3-mit-seitenfilter-responsive-filemanager-performance-und-usability-verbesserungen",
-    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2020-3-reenables-the-page-filters-responsive-filemanager-and-improves-usability-and-performace"
+    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-4-kleines-aber-signifikantes-update-mit-lazy-loading-und-hierarchischer-seitenverwaltung",
+    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2020-4-small-but-significant-update-adds-lazy-loading-and-hierarchical-page-management"
   },
   "release_notes": {
     "de": "Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
