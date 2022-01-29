@@ -1,10 +1,10 @@
 {
-  "version": "2020.4",
-  "file": "https://www.ulicms.de/content/files/Releases/2020.4/ulicms-2020.4-near-threatened-jaguar-upgrade.zip",
-  "hashsum": "ccdbfc0a26eca1e5de0de375b487d204",
+  "version": "2021.3",
+  "file": "https://www.ulicms.de/content/files/Releases/2021.3/ulicms-2021.3-starved-piranha-upgrade.zip",
+  "hashsum": "9e64ce06e495defeec624e18cb9b1380",
   "announcement": {
-    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2020-4-kleines-aber-signifikantes-update-mit-lazy-loading-und-hierarchischer-seitenverwaltung",
-    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2020-4-small-but-significant-update-adds-lazy-loading-and-hierarchical-page-management"
+    "de": "https://www.ulicms.de/aktuelles.html?single=ulicms-2021-3-auf-dem-neuesten-stand-fuer-das-3-quartal-von-2021",
+    "en": "https://en.ulicms.de/aktuelles.html?single=ulicms-2021-3-latest-update-for-the-third-quarter-of-2021"
   },
   "release_notes": {
     "de": "Bitte lesen Sie die Release-Ankündigung vor dem Upgrade.",
