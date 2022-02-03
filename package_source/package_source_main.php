@@ -39,7 +39,7 @@ function package_source_show_description() {
 
     if (is_file($package_file)) {
         $lastchanged = filemtime($package_file);
-        $lastchanged = strftime("%x", $lastchanged);
+        $lastchanged = PHP81_BC\strftime("%x", $lastchanged);
         $html .= "<div class=\"last-changed\">" . get_translation("LAST_UPDATED", array(
                     "%date%" => $lastchanged
                 )) . "</small>";
